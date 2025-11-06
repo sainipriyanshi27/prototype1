@@ -280,9 +280,10 @@ function Profile({ user }) {
         </div>
 
         <div className="mt-4 text-sm text-gray-600">
-          <div>📧 arjun.kumar@college.edu.in</div>
-          <div>📍 Delhi, India</div>
-          <div>🏫 Computer Science</div>
+                 <div>LinkedIn: https://www.linkedin.com/in/arjunkumar_72/</div>
+                <div>Email ID: arjun.kumar@college.edu.in</div>
+                <div>Location: Delhi, India</div>
+                <div>Subject: Computer Science</div>
         </div>
 
         <div className="mt-4">
